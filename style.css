@@ -1,0 +1,50 @@
+#centreText {
+    display: flex;
+    justify-content:center;
+    box-sizing: 10px;
+
+}
+
+body {
+    text-align: center;
+
+  /* height: 100vh;
+  font-family: sans-serif;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  overflow: hidden;
+  margin: 0; */
+  background: green;
+}
+h1 {
+    font-size: 5rem;
+display: flex;
+color:blue;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.soundBox {
+    margin: 20%;
+}
+.pressed {
+
+}
+.sound {
+    margin: 15px;
+    outline: auto;
+    border: 10px solid red ;
+    border-radius: 15px;
+    font-size: 30px;
+    line-height: 2;
+    color: black;
+    text-shadow: 20px;
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    background-color: purple;
+}
+
+
+
