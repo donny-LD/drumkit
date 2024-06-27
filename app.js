@@ -3,13 +3,13 @@ document.addEventListener("DOMContentLoaded", () => {
   const soundMap = {
     b: "sounds/boom.wav",
     h: "sounds/hihat.wav",
-    c: "sounds/hihat.wav", // Assuming same sound for both hihat buttons
+    c: "sounds/clap.wav",
     k: "sounds/kick.wav",
     o: "sounds/openhat.wav",
     r: "sounds/ride.wav",
     s: "sounds/snare.wav",
-    t: "sounds/tink.wav",
-    tom: "sounds/tom.wav",
+    T: "sounds/tink.wav",
+    t: "sounds/tom.wav",
   };
 
   // Function to play sound
